@@ -25,7 +25,7 @@ npm install
 3.如果需要，在全局环境下安装 [webpack](https://github.com/webpak/webpack)：
 
 ```sh
-npm install wepack -g
+npm install webpack -g
 ```
 
 4.将项目的源代码（位于 src/ 下）编译至生产所需的目标码（位于 dist/ 下）:
@@ -40,7 +40,7 @@ webpack 使用说明请参考 [https://webpack.github.io/docs/](https://webpack.
 
 ```sh
 npm install webpack-dev-server -g
-webpck-dev-server
+webpack-dev-server
 ```
 
 然后在浏览器中访问 [http://localhost:8080/](http://localhost:8080/) 即可。
